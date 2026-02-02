@@ -40,3 +40,22 @@ graph LR
     A --> D[System Design]
     C --> E[NLP Projects]
     B --> F[API Development]
+<br/>
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=loqom&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🏆 **Trophy Case**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=loqom&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=loqom&color=6CD8F6&style=for-the-badge" alt="Visitor Badge" />
+</div>
