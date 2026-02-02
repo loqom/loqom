@@ -31,16 +31,19 @@
 
 <br/>
 
-## 🔥 **Currently Working On**
-
-```mermaid
-graph LR
-    A[Full-Stack Web Apps] --> B[MERN Stack]
-    A --> C[Machine Learning]
-    A --> D[System Design]
-    C --> E[NLP Projects]
-    B --> F[API Development]
 <br/>
+
+## 🔥 **Currently Working On**
+<div align="center">
+
+[![Full-Stack Web Apps](https://img.shields.io/badge/Full-Stack-6CD8F6?style=for-the-badge&logo=react&logoColor=white)](https://github.com/loqom)
+[![Machine Learning](https://img.shields.io/badge/ML-AI-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/loqom)  
+[![System Design](https://img.shields.io/badge/System%20Design-00D4AA?style=for-the-badge&logo=architecture&logoColor=white)](https://github.com/loqom)
+
+</div>
+
+<br/>
+
 
 ## 📊 **GitHub Stats**
 
