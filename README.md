@@ -37,6 +37,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loqom&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+
 ---
 
 ## 🔥 Most Used Languages
@@ -76,7 +77,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/loqom/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/loqom/loqom/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
