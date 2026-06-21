@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">I'm Om Vishwakarma 🚀</h1>
-<h3 align="center">Aspiring Software Developer | Web & Android Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | Web & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Developer;Open+Source+Learner;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Gen+AI;Open+Source+Learner;Problem+Solver" />
 </p>
 
 ---
@@ -15,10 +15,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Student & Tech Explorer  
-- 🔭 Currently working on **Web & Android Projects**
+- 🔭 Currently working on **Web & Gen AI Projects**
 - 🌱 Learning **DSA, Backend, Firebase**
 - 💡 Love building **real-world useful apps**
-- ☕ Debugs best with chai
 
 ---
 
