@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C6FF&size=20&center=true&vCenter=true&width=650&lines=Building+multi-agent+GenAI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+ChromaDB;B.Tech+CSE+(AI+%26+ML)+%40+PSIT+Kanpur;Open+to+GenAI+%2F+SDE+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C6FF&size=20&center=true&vCenter=true&width=650&lines=Building+multi-agent+GenAI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+ChromaDB;B.Tech+CSE+%40+PSIT+Kanpur;Open+to+GenAI+%2F+SDE+Internships" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a third-year B.Tech CSE (AI & ML) student building production-shaped GenAI systems — not toy chatbots. My work centers on **multi-agent orchestration, RAG pipelines, and lean full-stack delivery**: LangChain/LangGraph for agent workflows, ChromaDB for retrieval, Mistral AI for inference, and Flask/FastAPI backends with zero unnecessary build tooling.
+I'm a third-year B.Tech CSE student building production-shaped GenAI systems — not toy chatbots. My work centers on **multi-agent orchestration, RAG pipelines, and lean full-stack delivery**: LangChain/LangGraph for agent workflows, ChromaDB for retrieval, Mistral AI for inference, and Flask/FastAPI backends with zero unnecessary build tooling.
 
 - 🔭 Currently building **InnovateX** — a multi-agent placement-readiness system (LangGraph, 6 orchestrated agents, RAG-based mock interviews)
 - 📜 Pursuing the **AWS Certified AI Practitioner (AIF-C01)** certification
