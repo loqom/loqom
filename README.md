@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=180&section=header&text=Om%20Vishwakarma&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%26%20Full%20Stack%20Engineer&descAlignY=58&descSize=18" />
-</p>
+![Banner](banner.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C6FF&size=20&center=true&vCenter=true&width=650&lines=Building+multi-agent+GenAI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+ChromaDB;B.Tech+CSE+%40+PSIT+Kanpur;Open+to+GenAI+%2F+SDE+Internships" />
