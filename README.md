@@ -15,7 +15,7 @@
 
 ## About
 
-Hi, I'm **Om Vishwakarma**, a third-year B.Tech CSE (AI & ML) student at PSIT Kanpur (graduating 2027). I build production-shaped GenAI systems rather than toy chatbots: multi-agent workflows, retrieval pipelines, and full-stack products that are deployed, authenticated and shipped through CI/CD.
+Hi, I'm **Om Vishwakarma**, a third-year B.Tech CSE student at PSIT Kanpur (graduating 2028). I build production-shaped GenAI systems: multi-agent workflows, retrieval pipelines, and full-stack products that are deployed, authenticated and shipped through CI/CD.
 
 - 🔭 **Building:** InnovateX, a Developer Intelligence Platform powered by LangGraph agents
 - 🚀 **Shipped:** BuildPath, an AI project-blueprint platform, live at [getbuildpath.tech](https://getbuildpath.tech)
