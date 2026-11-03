@@ -1,46 +1,55 @@
 ![Banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C6FF&size=20&center=true&vCenter=true&width=650&lines=Building+multi-agent+GenAI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+ChromaDB;B.Tech+CSE+%40+PSIT+Kanpur;Open+to+GenAI+%2F+SDE+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C6FF&size=20&center=true&vCenter=true&width=650&lines=Building+multi-agent+GenAI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI;Full-stack+%2B+AI+shipped+to+production;B.Tech+CSE+(AI+%26+ML)+%40+PSIT+Kanpur;Open+to+GenAI+%2F+SDE+Internships" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/om-vishwakarma-codes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:omgkplko@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/loqom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://getbuildpath.tech"><img src="https://img.shields.io/badge/BuildPath-Live-00C6FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <br>
 
 ## About
 
-I'm a third-year B.Tech CSE student building production-shaped GenAI systems — not toy chatbots. My work centers on **multi-agent orchestration, RAG pipelines, and lean full-stack delivery**: LangChain/LangGraph for agent workflows, ChromaDB for retrieval, Mistral AI for inference, and Flask/FastAPI backends with zero unnecessary build tooling.
+Hi, I'm **Om Vishwakarma**, a third-year B.Tech CSE (AI & ML) student at PSIT Kanpur (graduating 2027). I build production-shaped GenAI systems rather than toy chatbots: multi-agent workflows, retrieval pipelines, and full-stack products that are deployed, authenticated and shipped through CI/CD.
 
-- 🔭 Currently building **InnovateX** — a multi-agent placement-readiness system (LangGraph, 6 orchestrated agents, RAG-based mock interviews)
-- 📜 Pursuing the **AWS Certified AI Practitioner (AIF-C01)** certification
-- 🎯 Actively seeking **GenAI / Full-Stack Development internships**
-- ⚙️ Consistent stack: LangChain • LangGraph • ChromaDB • Mistral AI • Flask/FastAPI • MERN
+- 🔭 **Building:** InnovateX, a Developer Intelligence Platform powered by LangGraph agents
+- 🚀 **Shipped:** BuildPath, an AI project-blueprint platform, live at [getbuildpath.tech](https://getbuildpath.tech)
+- 📜 **Preparing for:** AWS Certified AI Practitioner (AIF-C01)
+- 🛰️ **Exploring:** deep-learning super-resolution for satellite imagery (final-year project track)
+- 🎯 **Looking for:** GenAI / Full-Stack / SDE internships and campus placements
+- ⚙️ **Core stack:** Python • LangChain • LangGraph • ChromaDB • Mistral AI • FastAPI/Flask • MERN
 
 <br>
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,nodejs,mongodb,mysql,cpp,java,git,github,androidstudio,firebase,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,vite,nodejs,express,mongodb,mysql,cpp,java,docker,githubactions,azure,vercel,git,github&perline=9" />
 </p>
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 **GenAI / ML**
-LangChain · LangGraph · Mistral AI · ChromaDB · RAG Pipelines · Prompt Engineering
+LangChain · LangGraph · Multi-Agent Systems · RAG · ChromaDB · Mistral AI · Gemini · Prompt Engineering
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 **Backend / Full-Stack**
-Flask · FastAPI · Node.js · Express · MongoDB · MySQL · REST APIs
+FastAPI · Flask · Node.js · Express · React · MongoDB · MySQL · REST APIs · JWT / OAuth · SSE Streaming
+
+</td>
+<td valign="top" width="33%">
+
+**DevOps / Cloud**
+Docker · GitHub Actions · Azure Container Apps · Vercel · CI/CD · Cron Jobs
 
 </td>
 </tr>
@@ -52,60 +61,44 @@ Flask · FastAPI · Node.js · Express · MongoDB · MySQL · REST APIs
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 [InnovateX](https://github.com/loqom)
-Multi-agent AI placement-readiness system. Six LangGraph-orchestrated agents (resume parsing, JD analysis, skill-gap detection, RAG-based mock interviews, scoring, roadmap generation) with a Flask backend and ChromaDB retrieval layer.
+### 🧠 [InnovateX: Developer Intelligence Platform](https://github.com/loqom)
+A five-module platform that helps developers grow faster, driven by four LangGraph agent graphs and real data sources:
 
-`LangGraph` `LangChain` `ChromaDB` `Mistral AI` `Flask`
+- **GitHub Profile Analyzer** with a 24h cache
+- **Research Paper Agent** (Semantic Scholar + ArXiv)
+- **Open Source Contribution Finder**
+- **CP Contest Tracker** (Codeforces, LeetCode, CLIST) refreshed by a 6-hour cron
+- **Multi-Agent Job Search**
 
-</td>
-<td width="50%">
+Express + MongoDB backend with JWT auth, a FastAPI AI service, and a React + Vite frontend.
 
-### 🔍 [ResearchMind](https://github.com/loqom)
-Multi-agent research assistant with live web retrieval, streamed responses (Flask SSE), and an interactive Three.js frontend.
-
-`LangGraph` `Tavily` `Mistral AI` `Three.js` `Flask SSE`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📄 [DocLens](https://github.com/loqom)
-RAG-based PDF question-answering tool — upload a document, get grounded answers via LangChain + ChromaDB retrieval.
-
-`LangChain` `Mistral AI` `ChromaDB` `Flask`
+`LangGraph` `LangChain` `Gemini` `FastAPI` `Express` `MongoDB` `React`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 [PatternLens](https://github.com/loqom)
-LeetCode pattern-recognition tool that classifies problems by underlying technique using Gemini + LangChain.
+### 🛤️ [BuildPath](https://getbuildpath.tech) · 🟢 Live
+Turns real developer problems (GitHub, Stack Overflow, Reddit) into personalised project blueprints with architecture, tech stack and a 4-week roadmap.
 
-`Gemini` `LangChain` `Streamlit`
+**Pipeline:** problem discovery → semantic analysis → clustering → skill matching → AI planning → roadmap, with streamed responses over SSE.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Deployed on Azure Container Apps with Docker, GitHub Actions CI/CD, immutable SHA-tagged images, health checks, JWT + Google OAuth.
 
-### 🛤️ [BuildPath](https://github.com/loqom)
-Full-stack career-guidance platform combining a MERN frontend with Python microservices and LangChain/LangGraph reasoning.
+`React` `Node.js` `FastAPI` `LangChain` `Mistral` `MongoDB` `Azure` `Docker`
 
-`MERN` `Python Microservices` `LangChain` `LangGraph`
-
-</td>
-<td width="50%">
-
-### 🩸 [BloodSync](https://github.com/loqom)
-Real-time blood donor matching platform connecting donors and recipients by location and blood type.
-
-`MERN` `Real-time Matching`
+[Frontend](https://github.com/loqom/BuildPathFrontend) · [Backend](https://github.com/loqom/Project-web-backend)
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## Hackathons
+
+- **Smart India Hackathon 2025:** Team Zillion Minds, *Astroverse* (SIH25175), a space-tech project
 
 <br>
 
